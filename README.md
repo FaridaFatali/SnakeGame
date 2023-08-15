@@ -9,4 +9,3 @@ Creating Executable 2D Snake Game 🐍
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
